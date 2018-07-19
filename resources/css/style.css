@@ -6,10 +6,30 @@ h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
+  padding-top: 10px
 }
 
-.header{
+#header{
  background-image: url(../images/header.png);
- background-size: 150%
+ background-size: 50%
  background-position: center;
+ background-
+}
+.cta {
+  color: white;
+  font-size: 18px;
+}
+#process{
+  font-family: "Helvetica", sans-serif;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
 }
