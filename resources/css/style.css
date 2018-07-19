@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.header{
+ background-image: url(../images/header.png);
+ background-size: 150%
+ background-position: center;
+}
