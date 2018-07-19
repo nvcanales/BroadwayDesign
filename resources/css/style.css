@@ -11,8 +11,8 @@ h1{
 
 #header{
  background-image: url(../images/header.png);
- background-size: 50%
  background-position: center;
+
 }
 .cta {
   color: white;
@@ -35,7 +35,6 @@ p{
 }
 .pageBreak{
   background-image: url(../images/header.png);
-  background-size: 125%
   background-position: center;
   font-size: 23px;
   font-weight: bold;
