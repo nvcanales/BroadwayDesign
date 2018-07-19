@@ -6,14 +6,13 @@ h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
-  padding-top: 10px
+  padding-top: 10px;
 }
 
 #header{
  background-image: url(../images/header.png);
  background-size: 50%
  background-position: center;
- background-
 }
 .cta {
   color: white;
@@ -29,7 +28,22 @@ h2{
 h3{
   font-size: 23px;
   font-weight: bold;
+  padding-top: 5px;
 }
 p{
   font-size: 14px;
+}
+.pageBreak{
+  background-image: url(../images/header.png);
+  background-size: 125%
+  background-position: center;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
